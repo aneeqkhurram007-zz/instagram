@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aneeqkhurram007/instagram.git/static/css/main.2bab86bc.chunk.css",
+    "main.js": "/aneeqkhurram007/instagram.git/static/js/main.8da79d1a.chunk.js",
+    "main.js.map": "/aneeqkhurram007/instagram.git/static/js/main.8da79d1a.chunk.js.map",
+    "runtime-main.js": "/aneeqkhurram007/instagram.git/static/js/runtime-main.4f2fec30.js",
+    "runtime-main.js.map": "/aneeqkhurram007/instagram.git/static/js/runtime-main.4f2fec30.js.map",
+    "static/js/2.a64ca19d.chunk.js": "/aneeqkhurram007/instagram.git/static/js/2.a64ca19d.chunk.js",
+    "static/js/2.a64ca19d.chunk.js.map": "/aneeqkhurram007/instagram.git/static/js/2.a64ca19d.chunk.js.map",
+    "static/js/3.cd3fff95.chunk.js": "/aneeqkhurram007/instagram.git/static/js/3.cd3fff95.chunk.js",
+    "static/js/3.cd3fff95.chunk.js.map": "/aneeqkhurram007/instagram.git/static/js/3.cd3fff95.chunk.js.map",
+    "index.html": "/aneeqkhurram007/instagram.git/index.html",
+    "static/css/main.2bab86bc.chunk.css.map": "/aneeqkhurram007/instagram.git/static/css/main.2bab86bc.chunk.css.map",
+    "static/js/2.a64ca19d.chunk.js.LICENSE.txt": "/aneeqkhurram007/instagram.git/static/js/2.a64ca19d.chunk.js.LICENSE.txt",
+    "static/media/explore.e03fbfda.svg": "/aneeqkhurram007/instagram.git/static/media/explore.e03fbfda.svg",
+    "static/media/home.99fa296e.svg": "/aneeqkhurram007/instagram.git/static/media/home.99fa296e.svg",
+    "static/media/instagram.c0113239.svg": "/aneeqkhurram007/instagram.git/static/media/instagram.c0113239.svg",
+    "static/media/user.c23538d1.svg": "/aneeqkhurram007/instagram.git/static/media/user.c23538d1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f2fec30.js",
+    "static/js/2.a64ca19d.chunk.js",
+    "static/css/main.2bab86bc.chunk.css",
+    "static/js/main.8da79d1a.chunk.js"
+  ]
+}
